@@ -1,0 +1,5 @@
+{
+  "name": "Tic Tac Toe",
+  "description": "A classic Tic Tac Toe game where you play against a Gemini-powered AI opponent. The AI analyzes the board and determines the optimal move, providing a challenging and engaging experience.",
+  "requestFramePermissions": []
+}
